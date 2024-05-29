@@ -9,3 +9,14 @@
     font-size: 100px;
     text-align: center;
 }
+
+body {
+    background-image: linear-gradient(135deg, #a9b0eb 0, #8194e0 50%, #4e7ad5 100%);
+}
+
+.titulo {
+    font-size: 35px;
+    text-align: center;
+    padding: 0em 5em 5em;
+    font-family: sans-serif;
+}
